@@ -4,8 +4,6 @@
 This repository explains the use of *Mirror, **Stretch, and **Scale* commands in AutoCAD.  
 These commands are essential for editing and modifying drawings efficiently without redrawing objects.
 
-The examples are demonstrated using a *First Floor Plan*, commonly used in civil engineering drawings.
-
 ---
 
 ## 🛠️ Commands Explained
